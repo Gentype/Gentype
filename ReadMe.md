@@ -1,10 +1,8 @@
-p align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0A0A0A&text=GENTYPE&fontSize=125&fontColor=00BFFF&height=300&animation=blinking" alt="Gentype">
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/https://cdn.leonardo.ai/users/5038e721-dfe2-4b63-854c-cdf953275e5a/generations/1f143c17-bf1f-6680-93a8-22956d5522d4/ideogram-v3.0_Invincible_comic_book_logo_style_massive_bold_dramatic_title_GENTYPE_exactly_lik-0.jpg" width="680" alt="Gentype Logo">
-</p>
+
 
 <h2 align="center" style="color:#00BFFF; margin-top:-15px;">INTERNET WANDERER ⚡</h2>
 
