@@ -1,4 +1,13 @@
-# 💫 About Me:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0A0A0A&text=GENTYPE&fontSize=125&fontColor=00BFFF&height=300&animation=blinking" alt="Gentype">
+</p>
+
+<h2 align="center" style="color:#00BFFF; margin-top:-20px;">INTERNET WANDERER ⚡</h2>
+
+<p align="center">
+  <strong style="color:#00BFFF">Building MVPs. Shipping fast. Living in the code.</strong>
+</p>
+💫 About Me:
 I’m a digital nomad who obsessively creates things.<br><br>I build:<br>- Web Applications & MVPs<br>- Web Games<br>- AI Bots<br>- AI-powered Website Generators (Prompt → Full Site)<br><br>From idea to working product — I move fast.<br><br>Right now I'm deep into building my main project: an AI tool that turns simple text prompts into complete, ready-to-use websites with authentication, design, and everything needed.<br><br>No big company. No team. Just one guy wandering the internet and turning thoughts into reality.<br><br>Welcome to my corner of the web.
 
 
