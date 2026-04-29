@@ -1,4 +1,4 @@
-p align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0A0A0A&text=GENTYPE&fontSize=125&fontColor=00BFFF&height=300&animation=blinking" alt="Gentype">
 </p>
 
