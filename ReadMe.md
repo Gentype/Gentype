@@ -1,8 +1,10 @@
-
+p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0A0A0A&text=GENTYPE&fontSize=125&fontColor=00BFFF&height=300&animation=blinking" alt="Gentype">
 </p>
 
-
+<p align="center">
+  <img src="https://i.imgur.com/https://imgur.com/a/OaCXaxT" width="680" alt="Gentype Logo">
+</p>
 
 <h2 align="center" style="color:#00BFFF; margin-top:-15px;">INTERNET WANDERER ⚡</h2>
 
